@@ -1,7 +1,7 @@
 Nama : Fakhrul Anam <br>
 Nim : 18090113 <br>
 Kelas : 6B <br>
-<a href="https://datapegawaiza.herokuapp.com/">aplikasi<a>
+<a href="https://datapegawaiza.herokuapp.com/">aplikasi Data Pegawaiku<a>
 
 
 
